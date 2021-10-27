@@ -1,4 +1,4 @@
-# ![Zillow](https://github.com/oussou-dev/Zillow_Zestimate_Kaggle/blob/master/img/ZillowHomeValuePredictionModel.png?raw=true)
+# ![Zillow](https://raw.githubusercontent.com/oussou-dev/Zillow_Zestimate_Kaggle/main/img/ZillowHomeValuePredictionModel.png)
 
 
 

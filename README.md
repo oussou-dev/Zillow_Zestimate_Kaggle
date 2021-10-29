@@ -2,7 +2,7 @@
 
 
 
-## Project: Zillow Prize: Zillow’s Home Value Prediction (Zestimate)
+## House Price Prediction: Zillow Prize: Zillow’s Home Value Prediction (Zestimate)
 ### Can you improve the algorithm that changed the world of real estate?
 
 ### Summary
